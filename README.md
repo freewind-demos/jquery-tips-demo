@@ -1,6 +1,11 @@
-Js Hello World Demo
-===================
+JQuery Plugin "tips.js" Demo
+========================================
 
-Open `index.html` in your browser.
+```
+npm install
+open index.html
+```
 
-You will see "Hello, JS!" on the page.
+Click on the text input, you will see a tip:
+
+![demo](./images/demo.jpg)

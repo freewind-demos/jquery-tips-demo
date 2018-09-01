@@ -1,4 +1,6 @@
 {
   "dependencies": {
+    "jquery": "^3.3.1",
+    "tips.js": "^1.2.0"
   }
 }
